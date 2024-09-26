@@ -20,7 +20,7 @@ Collaboration is key! I seek opportunities to work with skilled individuals and 
 
 
 👩‍🍳 **Culinary Aficionado:**  
-When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 
+When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
 
 ---
 
