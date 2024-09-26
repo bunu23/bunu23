@@ -16,7 +16,8 @@ I am dedicated to continuous learning through online courses and industry events
 I enjoy breaking down complex challenges and applying innovative solutions.
 
 🤝 **Team Player:**  
-Collaboration is key! I seek opportunities to work with talented individuals and contribute.
+Collaboration is key! I seek opportunities to work with skilled individuals and help those who are new to tech.
+
 
 👩‍🍳 **Culinary Aficionado:**  
 When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 
