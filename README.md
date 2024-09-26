@@ -4,7 +4,7 @@
 ## 🌟 About Me:
 
 👩‍💻 **Primary Tech Stack:**  
-I specialize in Java development, utilizing frameworks like **Spring** and **Hibernate**. I also have experience in front-end development, contributing to both server-side and client-side applications. My passion lies in leveraging technology to solve real-world problems and create scalable software solutions.
+I specialize in Java development, along with experience in front-end development, contributing to both server-side and client-side applications. My passion lies in leveraging technology to solve real-world problems and create scalable software solutions.
 
 🤖 **Currently Exploring:**  
 I am delving into **Machine Learning** to enhance data-driven decision-making in my projects.
