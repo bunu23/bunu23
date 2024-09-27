@@ -4,7 +4,7 @@
 ## 🌟 About Me:
 
 👩‍💻 **Primary Tech Stack:**  
-Java development with familiarity in front-end development.
+Java with exposure in front-end development.
 
 🤖 **Currently Exploring:**  
 **Machine Learning** to enhance data-driven decision-making.
