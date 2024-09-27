@@ -9,8 +9,8 @@ I specialize in Java development, along with experience in front-end development
 🤖 **Currently Exploring:**  
 I am delving into **Machine Learning** to enhance data-driven decision-making in my projects.
 
-📚 **Lifelong Learner:**  
-I am dedicated to continuous learning through online courses and industry events.
+📚 **Curious Explorer:**  
+Committed to continuous learning and personal growth, constantly seeking opportunities to expand my knowledge and skills.
 
 🧩 **Analytical Problem Solver:**  
 I enjoy breaking down complex challenges and applying innovative solutions.
