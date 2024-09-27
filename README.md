@@ -4,20 +4,19 @@
 ## 🌟 About Me:
 
 👩‍💻 **Primary Tech Stack:**  
-I specialize in Java development, along with experience in front-end development, contributing to both server-side and client-side applications. My passion lies in leveraging technology to solve real-world problems and create scalable software solutions.
+Java development with familiarity in front-end development.
 
 🤖 **Currently Exploring:**  
-I am delving into **Machine Learning** to enhance data-driven decision-making in my projects.
+**Machine Learning** to enhance data-driven decision-making.
 
 📚 **Curious Explorer:**  
-Committed to continuous learning and personal growth, constantly seeking opportunities to expand my knowledge and skills.
+Committed to continuous learning and seeking opportunities to expand knowledge.
 
 🧩 **Analytical Problem Solver:**  
-I enjoy breaking down complex challenges and applying innovative solutions.
+Enjoys breaking down complex challenges and applying innovative solutions.
 
 🤝 **Team Player:**  
-Collaboration is key! I seek opportunities to work with skilled individuals and help those who are new to tech.
-
+Collaboration is key! 
 
 👩‍🍳 **Culinary Aficionado:**  
 When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
