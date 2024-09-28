@@ -21,13 +21,6 @@ Collaboration is key!
 👩‍🍳 **Culinary Aficionado:**  
 When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
 
----
-
-![Recent Tech Stack Used](https://github-readme-stats.vercel.app/api/top-langs/?username=bunu23&layout=compact&theme=dark&card_width=400)
-
-> **Note**: The chart above displays the technologies I have utilized recently. While my primary language is **Java**, the presence of Jupyter Notebooks may skew the statistics. 
-
----
 
 
 ## 🎓 Education
