@@ -23,12 +23,18 @@ When I am not coding, you’ll often find me in the kitchen! I absolutely love c
 
 ---
 
+![Recent Tech Stack Used](https://github-readme-stats.vercel.app/api/top-langs/?username=bunu23&layout=compact&theme=dark&card_width=400)
+
+> **Note**: The chart above displays the technologies I have utilized recently. While my primary language is **Java**, the presence of Jupyter Notebooks may skew the statistics. 
+
+---
+
+
 ## 🎓 Education
 
 ### 📚 [Master of Science in Computer Science](https://www.miu.edu)  
 
 - **Key Courses:** Web Application Programming, Advanced Software Development, Web Application Architecture, Algorithms, Database Management Systems, Enterprise Architecture, Software Architecture, Project Management, Machine Learning
-
 
 
 
