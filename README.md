@@ -22,21 +22,6 @@ Collaboration is key!
 When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
 
 
-
-## 🎓 Education
-
-### 📚 [Master of Science in Computer Science](https://www.miu.edu)  
-
-- **Key Courses:** Web Application Programming, Advanced Software Development, Web Application Architecture, Algorithms, Database Management Systems, Enterprise Architecture, Software Architecture, Project Management, Machine Learning
-
-
-
-### 📚 [Bachelor of Science in Computer Science and Information Technology](http://www.tu.edu.np)  
-
-- **Key Courses:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Discrete Structures, Statistics, Java Programming, C Programming, Database Management Systems, Calculus and Analytic Geometry, System Analysis and Design, Web Technology
-
----
-
 ## 🚀 My Skills:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -95,6 +80,20 @@ When I am not coding, you’ll often find me in the kitchen! I absolutely love c
 ![AppSmith](https://img.shields.io/badge/AppSmith-3E3E3E?style=flat)
 ![Retool](https://img.shields.io/badge/Retool-3069FE?style=flat&logo=retool&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+---
+
+## 🎓 Education
+
+### 📚 [Master of Science in Computer Science](https://www.miu.edu)  
+
+- **Key Courses:** Web Application Programming, Advanced Software Development, Web Application Architecture, Algorithms, Database Management Systems, Enterprise Architecture, Software Architecture, Project Management, Machine Learning
+
+
+
+### 📚 [Bachelor of Science in Computer Science and Information Technology](http://www.tu.edu.np)  
+
+- **Key Courses:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Discrete Structures, Statistics, Java Programming, C Programming, Database Management Systems, Calculus and Analytic Geometry, System Analysis and Design, Web Technology
 
 ---
 
