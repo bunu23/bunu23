@@ -83,14 +83,6 @@ When I am not coding, you’ll often find me in the kitchen! I absolutely love c
 
 ---
 
-## 🎓 Education
-
-### 📚 [Master of Science in Computer Science](https://www.miu.edu)  
-
-- **Key Courses:** Web Application Programming, Advanced Software Development, Web Application Architecture, Algorithms, Database Management Systems, Enterprise Architecture, Software Architecture, Project Management, Machine Learning
-
----
-
 ## 🤝 Let’s Connect!
 
 If you’re interested in collaboration or just want to chat about technology, feel free to follow me on GitHub! I would love to connect and share ideas!
