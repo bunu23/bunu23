@@ -89,12 +89,6 @@ When I am not coding, you’ll often find me in the kitchen! I absolutely love c
 
 - **Key Courses:** Web Application Programming, Advanced Software Development, Web Application Architecture, Algorithms, Database Management Systems, Enterprise Architecture, Software Architecture, Project Management, Machine Learning
 
-
-
-### 📚 [Bachelor of Science in Computer Science and Information Technology](http://www.tu.edu.np)  
-
-- **Key Courses:** Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Discrete Structures, Statistics, Java Programming, C Programming, Database Management Systems, Calculus and Analytic Geometry, System Analysis and Design, Web Technology
-
 ---
 
 ## 🤝 Let’s Connect!
