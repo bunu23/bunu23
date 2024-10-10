@@ -3,23 +3,17 @@
 
 ## 🌟 About Me:
 
-👩‍💻 **Primary Tech Stack:**  
-Java with exposure in front-end development.
+👩‍💻 **Primary Tech Stack:** Java with exposure in front-end development.
 
-🤖 **Currently Exploring:**  
-**Machine Learning** to enhance data-driven decision-making.
+🤖 **Currently Exploring:** Machine Learning
 
-📚 **Curious Explorer:**  
-Committed to continuous learning and seeking opportunities to expand knowledge.
+📚 **Curious Explorer:** Committed to continuous learning and seeking opportunities to expand knowledge.
 
-🧩 **Analytical Problem Solver:**  
-Enjoys breaking down complex challenges and applying innovative solutions.
+🧩 **Analytical Problem Solver:** Enjoys breaking down complex challenges and applying innovative solutions.
 
-🤝 **Team Player:**  
-Collaboration is key! 
+🤝 **Team Player:** Collaboration is key! 
 
-👩‍🍳 **Culinary Aficionado:**  
-When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
+👩‍🍳 **Culinary Aficionado:** When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
 
 
 ## 🚀 My Skills:
