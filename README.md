@@ -1,19 +1,14 @@
-# 👋 Hello and Welcome! 
+# 👋 Hello and Welcome!
 
+## About Me
+Hi there! I work mostly with **Java** for backend development, and I am also exploring and working in **Python**. I have some experience with front-end development as well.
 
-## 🌟 About Me:
+- **Languages:** Java, Python, JavaScript
+- **Learning:** - I am constantly picking up new skills and taking on fresh projects.
+- **Teamwork:** I value collaboration and believe in working together to solve problems.
 
-👩‍💻 **Primary Tech Stack:** Java with exposure in front-end development.
-
-🤖 **Currently Exploring:** Machine Learning
-
-📚 **Curious Explorer:** Committed to continuous learning and seeking opportunities to expand knowledge.
-
-🧩 **Analytical Problem Solver:** Enjoys breaking down complex challenges and applying innovative solutions.
-
-🤝 **Team Player:** Collaboration is key! 
-
-👩‍🍳 **Culinary Aficionado:** When I am not coding, you’ll often find me in the kitchen! I absolutely love cooking—it’s my creative outlet and a delightful way to unwind. Who knows, I might just cook up an innovative idea for a fantastic app someday! 🍲✨
+## Beyond Coding 👩‍🍳
+When I am not coding, you will likely find me in the kitchen. Cooking is my creative outlet—a place to unwind and sometimes even spark inspiration for my next project.
 
 
 ## 🚀 My Skills:
