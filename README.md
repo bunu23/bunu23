@@ -1,9 +1,7 @@
 # 👋 Hello and Welcome!
 
 ## About Me
-Hi there! I work mostly with **Java** for backend development, and I am also exploring and working in **Python**. I have experience with front-end development **React** as well.
-
-- **Languages:** Java, Python, JavaScript
+Hi there! I work mostly with **Java** for backend development and  **React** for front-end development.
 - **Learning:** - I am constantly picking up new skills and taking on fresh projects.
 - **Teamwork:** I value collaboration and believe in working together to solve problems.
 
